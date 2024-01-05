@@ -1,0 +1,9 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" viewBox="0 0 256 256" id="chevron">
+    <defs></defs>
+    <g transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+      <path d="M 90 45 C 90 20.187 69.813 0 45 0 C 20.187 0 0 20.187 0 45 c 0 24.813 20.187 45 45 45 C 69.813 90 90 69.813 90 45 z M 7 45 C 7 24.047 24.047 7 45 7 s 38 17.047 38 38 S 65.953 83 45 83 S 7 65.953 7 45 z" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round"></path>
+      <path d="M 65.456 38.522 c 0 -0.896 -0.342 -1.792 -1.025 -2.475 c -1.366 -1.367 -3.583 -1.367 -4.949 0 L 45 50.529 L 30.518 36.047 c -1.366 -1.367 -3.583 -1.367 -4.95 0 c -1.366 1.367 -1.365 3.583 0 4.95 l 16.956 16.955 c 1.366 1.367 3.583 1.367 4.949 0 L 64.43 40.997 C 65.114 40.314 65.456 39.418 65.456 38.522 z" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round"></path>
+    </g>
+  </symbol>
+</svg>
