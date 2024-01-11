@@ -23,7 +23,6 @@ body {
     font-size: 2.4rem;
     line-height: 1.5; 
     color: var(--color-body); 
-
 }
 
 h1, h2, h3 {
@@ -211,7 +210,7 @@ a {
 }
 
 .btn--block {
-    width: 90%; 
+    width: 100%; 
     display: inline-block; 
 }
 
