@@ -320,6 +320,7 @@ a {
 
 .plan .list__item {
     margin-bottom: 2rem; 
+    letter-spacing: 1px; 
 }
 
 .plan--popular .card__header {
@@ -343,6 +344,9 @@ a {
     }
     .plan__billing-cycle {
         font-size: 1.6rem; 
+    }
+    .plan__description {
+        font-size: 1.7rem; 
     }
 }
   
